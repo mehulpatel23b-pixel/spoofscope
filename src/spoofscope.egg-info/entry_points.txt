@@ -1,0 +1,2 @@
+[console_scripts]
+spoofscope = spoofscope.cli:main

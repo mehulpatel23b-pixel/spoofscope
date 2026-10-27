@@ -1,0 +1,2 @@
+# spoofscope has zero runtime dependencies - Python 3.9+ standard library only.
+# This file exists so pip-based workflows and some editors detect the project.

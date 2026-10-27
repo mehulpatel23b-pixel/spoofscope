@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: spoofscope
+Version: 0.1.0
+Summary: Email spoofing exposure audit - SPF, DMARC, DKIM and MX graded in one zero-dependency command over DNS-over-HTTPS
+Author: Mehul Patel
+License: MIT
+Keywords: security,dmarc,spf,dkim,email-authentication,audit,cli
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Security
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
